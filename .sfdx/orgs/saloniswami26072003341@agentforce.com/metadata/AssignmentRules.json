@@ -1,0 +1,31 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005gL000004oCi1QAE",
+      "createdByName": "saloni swami",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "assignmentRules/Case.assignmentRules",
+      "fullName": "Case",
+      "id": "",
+      "lastModifiedById": "005gL000004oCi1QAE",
+      "lastModifiedByName": "saloni swami",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "AssignmentRules"
+    },
+    {
+      "createdById": "005gL000004oCi1QAE",
+      "createdByName": "saloni swami",
+      "createdDate": "1970-01-01T00:00:00.000Z",
+      "fileName": "assignmentRules/Lead.assignmentRules",
+      "fullName": "Lead",
+      "id": "",
+      "lastModifiedById": "005gL000004oCi1QAE",
+      "lastModifiedByName": "saloni swami",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "namespacePrefix": "",
+      "type": "AssignmentRules"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "005gL000004oCi1QAE",
+      "createdByName": "saloni swami",
+      "createdDate": "2025-08-11T10:17:21.000Z",
+      "fileName": "authproviders/Git_AuthProvider.authprovider",
+      "fullName": "Git_AuthProvider",
+      "id": "0SOgL000000ZVVZWA4",
+      "lastModifiedById": "005gL000004oCi1QAE",
+      "lastModifiedByName": "saloni swami",
+      "lastModifiedDate": "1970-01-01T00:00:00.000Z",
+      "type": "AuthProvider"
+    }
+  ]
+}
